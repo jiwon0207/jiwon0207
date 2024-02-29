@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0207&show_icons=true&theme=radical)
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.notion.so%2F4a3e1a9a457a4625a0a35aef8434e8e3)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&logoColor=00000&label=Notion&labelColor=ffffff&color=000000&link=https%3A%2F%2Fwww.notion.so%2F4a3e1a9a457a4625a0a35aef8434e8e3)
 
 
 <!--
