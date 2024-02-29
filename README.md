@@ -3,13 +3,19 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0207&show_icons=true&theme=radical)
-<a href="https://www.notion.so/4a3e1a9a457a4625a0a35aef8434e8e3" target="_blank"><img src="https://img.shields.io/badge/ffffff?style=flat-square&logo=#000000&logoColor=1f883d"/></a>
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.notion.so%2F4a3e1a9a457a4625a0a35aef8434e8e3)
 
 
 <!--
 **jiwon0207/jiwon0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<a href="https://www.notion.so/4a3e1a9a457a4625a0a35aef8434e8e3" target="_blank">
+  <img src="https://img.shields.io/badge/ffffff?style=flat-square&logo=&logoColor=1f883d"/>
+</a>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
