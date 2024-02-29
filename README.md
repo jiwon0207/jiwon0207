@@ -3,8 +3,10 @@
 
 
 
-<br>
+<br/>
 
+### ✍️ Communication
+------------
 <!-- 뱃지 : 노션 -->
 <a href="https://www.notion.so/4a3e1a9a457a4625a0a35aef8434e8e3" target="_blank">
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
