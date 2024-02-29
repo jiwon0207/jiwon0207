@@ -13,6 +13,8 @@
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 </a>
 
+Status
+-----------
 <!-- 깃허브 상태 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon0207&show_icons=true&theme=radical)
 
